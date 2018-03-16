@@ -1,0 +1,10 @@
+{
+  "name": "meetup-mashup-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nsch1 <nick.schooneman1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "meetup": "^0.1.0-SNAPSHOT"
+  }
+}
